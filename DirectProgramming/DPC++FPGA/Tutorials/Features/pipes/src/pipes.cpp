@@ -16,6 +16,9 @@
 #include "dpc_common.hpp"
 
 
+GREAT_BIG_SYNTAX_ERROR!!!
+
+
 using namespace sycl;
 
 using ProducerToConsumerPipe = INTEL::pipe<  // Defined in the SYCL headers.
